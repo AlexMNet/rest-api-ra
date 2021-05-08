@@ -598,5 +598,11 @@
     "id": 100,
     "title": "at nam consequatur ea labore ea harum",
     "body": "cupiditate quo est a modi nesciunt soluta\nipsa voluptas error itaque dicta in\nautem qui minus magnam et distinctio eum\naccusamus ratione error aut"
+  },
+  {
+    "userId": 123456789,
+    "id": 123456789,
+    "title": "This is a test post for my completed node.js API",
+    "body": "I have created get, post, put and delete routes!"
   }
 ]
